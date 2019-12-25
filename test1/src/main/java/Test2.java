@@ -4,4 +4,7 @@
  * @Phone:15735180884
  */
 public class Test2 {
+    public static void main(String[] args) {
+        System.out.println("张建");
+    }
 }
