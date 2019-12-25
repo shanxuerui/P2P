@@ -11,8 +11,6 @@ public class Test2 {
         System.out.println("张建");
         System.out.println("轩哥");
         System.out.println("赛少");
-        System.out.println("狂人");
-         System.out.println("辉哥");
-          System.out.println("市场");
+
     }
 }
