@@ -9,6 +9,7 @@ public class Test2 {
     public static void main(String[] args) {
           System.out.println("死猪");
             System.out.println("涛涛");
+        System.out.println("kuangkuang");
 
     }
 }
