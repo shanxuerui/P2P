@@ -12,7 +12,7 @@ public class Test2 {
         System.out.println("kuangkuang");
         System.out.println("111");
              System.out.println("221");
-
+        System.out.println(222);
 
     }
 }
