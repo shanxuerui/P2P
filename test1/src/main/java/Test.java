@@ -14,6 +14,7 @@ public class Test {
         System.out.println("661");
 
         System.out.println(777);
+        System.out.println("自己搞的");
 
     }
 
